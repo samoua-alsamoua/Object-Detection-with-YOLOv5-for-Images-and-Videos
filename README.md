@@ -1,6 +1,6 @@
 # Object Detection using YOLOv5
 
-This project demonstrates how to perform **object detection** on images and videos using the **YOLOv5** model pre-trained on the COCO dataset. The code is designed to run in **Google Colab** and supports file uploads for processing.
+This project aims to **detect objects** on images and videos using the **YOLOv5** model pre-trained on the COCO dataset.
 
 ---
 
